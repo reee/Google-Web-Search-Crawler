@@ -1,12 +1,19 @@
 #Usage
 Inspired by https://github.com/NikolaiT/GoogleScraper and
 https://github.com/DanMcInerney/search-google
+
 This is a google web search crawler with random useragent and automatic result save 
+
 based at python2 + selenium + firefox profile(firefox is mainly for debug, you can use phantomjs instead for headless crawl ) 
+
 For more info please refer to the Chinese Version below 
+
 Sorry for my poor english 
 
 # 用途
+由  https://github.com/NikolaiT/GoogleScraper 和
+https://github.com/DanMcInerney/search-google 启发
+
 使用python2 + selenium + firefox profile 实现的随机user agent 模拟抓取Google搜索结果和关键词的结果数。
 
 使用firefox的目的在于交互的查看爬取错误进行调试，你也可以使用phantomjs进行headless抓取。
