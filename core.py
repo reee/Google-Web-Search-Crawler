@@ -5,7 +5,6 @@ import sys
 import os
 import time
 import random
-import argparse
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select, WebDriverWait
